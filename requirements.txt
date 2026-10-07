@@ -1,0 +1,7 @@
+opencv-python
+PySide6
+numpy
+onnxruntime
+tokenizers
+pyobjc-framework-AVFoundation
+pyobjc-framework-Cocoa
